@@ -1,0 +1,31 @@
+﻿  stdafx.c
+stdafx.c : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw6_1.c
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw6_2.c
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+hw6_2.c(32): warning C4013: 'compare' 未定義; 假設 extern 傳回整數
+  hw6_3.c
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw6_4.c
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw6_5.c
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  main.c
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\hw6_5.c(10): warning C4716: 'cout': 必須傳回值
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\hw6_2.c(54): warning C4715: 'compare': 不是所有控制路徑都傳回值
+c:\workspace\work\c\visual studio\c語言\hw6_1060927\hw6_2.c(17): warning C4715: 'init': 不是所有控制路徑都傳回值
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  hw6_1060927.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw6_1060927.exe
+  hw6_1060927.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw6_1060927.pdb (Full PDB)

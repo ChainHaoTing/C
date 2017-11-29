@@ -1,0 +1,35 @@
+﻿  stdafx.c
+stdafx.c : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ex8_1.c
+ex8_1.c(13): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_1.c(14): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_1.c(16): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_1.c(18): warning C4129: ',': 無法辨識的字元逸出序列
+  ex8_10.c
+  ex8_11.c
+  ex8_1debug.c
+  ex8_1practice.c
+ex8_1practice.c(15): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_1practice.c(16): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_1practice.c(18): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_1practice.c(24): warning C4129: ',': 無法辨識的字元逸出序列
+  ex8_1test.c
+  ex8_2.c
+ex8_2.c(14): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_2.c(15): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_2.c(16): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_2.c(18): warning C4129: ',': 無法辨識的字元逸出序列
+ex8_2.c(20): warning C4129: ',': 無法辨識的字元逸出序列
+  ex8_3.c
+  ex8_4.c
+  ex8_5.c
+  ex8_6.c
+  ex8_7.c
+  ex8_8.c
+  ex8_9.c
+  main.c
+  正在產生程式碼
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ch8_1061018.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch08_1061018.exe
+  ch8_1061018.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch08_1061018.pdb (Full PDB)

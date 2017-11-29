@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw4_1060913\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw4_1060913\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw1060913.c
+hw1060913.c(12): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+hw1060913.c(29): warning C4098: 'main': 'void' 函式正在傳回值
+  正在產生程式碼
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  hw4_1060913.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw4_1060913.exe
+  hw4_1060913.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw4_1060913.pdb (Full PDB)

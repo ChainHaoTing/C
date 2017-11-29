@@ -1,0 +1,8 @@
+﻿  main.c
+  ex10_4d.c
+  ex10_4c.c
+  ex10_4b.c
+  ex10_4a.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch10_1061108\ex10_4a.c(17): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
+  ch10_1061108.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\ch10_1061108.exe

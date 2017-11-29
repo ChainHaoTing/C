@@ -1,0 +1,60 @@
+#include"c.h"
+#include<stdio.h>
+#include<stdlib.h>
+
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+void ex9_();
+
+int main()
+{
+	int input;
+	_Bool flag = 1;
+
+	while (flag)
+	{
+		printf("1.\n");
+		printf("2.\n");
+		printf("3.\n");
+		printf("4.\n");
+		printf("5.\n");
+		printf("6.\n");
+		printf("7.\n");
+		printf("8.\n");
+		printf("9.\n");
+		printf("10.\n");
+		printf("11.\n");
+
+		printf("----------------------------------------------------\n\n");
+		printf("請輸入要執行的作業?  1 ~, 按'0' 則結束執行!   ");
+		scanf("%d", &input);
+
+		switch (input)
+		{
+		case 1:ex9_(); break;
+		case 2:ex9_(); break;
+		case 3:ex9_(); break;
+		case 4:ex9_(); break;
+		case 5:ex9_(); break;
+		case 6:ex9_(); break;
+		case 7:ex9_(); break;
+		case 8:ex9_(); break;
+		case 9:ex9_(); break;
+		case 10:ex9_(); break;
+		case 11:ex9_(); break;
+		case 0:flag = 0; break;
+
+		default:break;
+		}
+		system("pause");
+		system("cls");
+	}
+}

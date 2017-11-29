@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+d:\106ntuta-01\work\c\visual studio\c語言\hw4_1060913\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\hw4_1060913\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\hw4_1060913\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw1060913.c
+d:\106ntuta-01\work\c\visual studio\c語言\hw4_1060913\hw1060913.c(12): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+d:\106ntuta-01\work\c\visual studio\c語言\hw4_1060913\hw1060913.c(29): warning C4098: 'main': 'void' 函式正在傳回值
+  hw4_1060913.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\hw4_1060913.exe

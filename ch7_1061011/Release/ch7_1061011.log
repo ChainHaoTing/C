@@ -1,0 +1,23 @@
+﻿  stdafx.c
+  ex7_1.c
+  ex7_10.c
+  ex7_11.c
+  ex7_2.c
+  ex7_3.c
+  ex7_4.c
+  ex7_5.c
+ex7_5.c(10): warning C4133: '=': 不相容的類型 - 從 'float *' 至 'int *'
+ex7_5.c(11): warning C4133: '=': 不相容的類型 - 從 'int *' 至 'float *'
+  ex7_6.c
+  ex7_7.c
+ex7_7.c(17): warning C4013: 'swap7_7' 未定義; 假設 extern 傳回整數
+  ex7_8.c
+  ex7_9.c
+  main.c
+  正在產生程式碼
+c:\workspace\work\c\visual studio\c語言\ch7_1061011\ex7_6.c(9): warning C4716: 'add10': 必須傳回值
+c:\workspace\work\c\visual studio\c語言\ch7_1061011\ex7_7.c(31): warning C4716: 'swap7_7': 必須傳回值
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ch7_1061011.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch07_1061011.exe
+  ch7_1061011.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch07_1061011.pdb (Full PDB)

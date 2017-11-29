@@ -1,0 +1,17 @@
+﻿  ex4_1.c
+  ex4_2.c
+  ex4_3.c
+  ex4_4.c
+  ex7_2a.c
+  ex7_2b.c
+  ex7_2c.c
+  ex7_3a_1.c
+  ex7_3a.c
+  main.c
+main.c(39): warning C4013: 'ex4_4' 未定義; 假設 extern 傳回整數
+main.c(44): warning C4013: 'ex7_3a_1' 未定義; 假設 extern 傳回整數
+  正在產生程式碼
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ch4_1060913.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch04_1060913.exe
+  ch4_1060913.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch04_1060913.pdb (Full PDB)

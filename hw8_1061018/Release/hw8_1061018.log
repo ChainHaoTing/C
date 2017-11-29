@@ -1,0 +1,8 @@
+﻿  hw8_1.c
+c:\workspace\work\c\visual studio\c語言\hw8_1061018\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw8_1061018\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  hw8_1061018.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw8_1061018.exe
+  hw8_1061018.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw8_1061018.pdb (Full PDB)

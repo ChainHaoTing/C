@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw2_1.c
+  hw2_2.c
+hw2_2.c(9): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw2_3.c
+hw2_3.c(7): warning C4101: 'k': 未參考的區域變數
+hw2_3.c(7): warning C4101: 'j': 未參考的區域變數
+  hw2_4.c
+hw2_4.c(16): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw2_5.c
+hw2_5.c(17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw2_6.c
+  main.c
+  正在產生程式碼
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\hw2_5.c(24): warning C4716: 
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\hw2_4.c(23): warning C4716: 
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\hw2_6.c(74): warning C4716: 'hw2_6': 必須傳回值
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\hw2_3.c(23): warning C4716: 'hw2_3': 必須傳回值
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\hw2_2.c(12): warning C4716: 'hw2_2': 必須傳回值
+c:\workspace\work\c\visual studio\c語言\hw2_1060830\hw2_1.c(20): warning C4716: 'hw2_1': 必須傳回值
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  hw2_1060830.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw2_1060830.exe
+  hw2_1060830.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw2_1060830.pdb (Full PDB)

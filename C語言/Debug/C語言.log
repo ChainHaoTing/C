@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+d:\106ntuta-01\work\c\visual studio\c語言\c語言\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\c語言\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\c語言\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  C語言.cpp
+d:\106ntuta-01\work\c\visual studio\c語言\c語言\c語言.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  C語言.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\C語言.exe

@@ -1,0 +1,29 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (ch5_1060920.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  stdafx.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\stdafx.c : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  main.c
+  ex_practice_2.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex_practice_2.c(9): warning C4101: 'j': 未參考的區域變數
+  ex_practice_1.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex_practice_1.c(9): warning C4101: 'j': 未參考的區域變數
+  ex_practice.c
+  ex_debug.c
+  ex5_7.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex5_7.c(34): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'char *'
+  d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex5_7.c(34): note: 請考慮在格式字串中使用 '%hhd'
+  ex5_7practice.c
+  ex5_6.c
+  ex5_5.c
+  ex5_4.c
+  ex5_3.c
+  ex5_2.c
+  ex5_1.c
+  正在產生程式碼...
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex5_1.c(30): warning C4716: 'ex5_1': 必須傳回值
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex_debug.c(16): warning C4716: 'ex_debug': 必須傳回值
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex_practice.c(20): warning C4716: 'ex_practice': 必須傳回值
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex_practice_1.c(25): warning C4716: 'ex_practice_1': 必須傳回值
+d:\106ntuta-01\work\c\visual studio\c語言\ch5_1060920\ex_practice_2.c(20): warning C4716: 'ex_practice_2': 必須傳回值
+  ch5_1060920.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\ch05_1060920.exe

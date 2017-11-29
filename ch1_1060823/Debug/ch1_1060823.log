@@ -1,0 +1,13 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (ch1_1060823.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  stdafx.cpp
+d:\106ntuta-01\work\c\visual studio\c語言\ch1_1060823\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\ch1_1060823\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\ch1_1060823\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  main.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch1_1060823\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\ch1_1060823\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ex1_3.c
+  ex1_2.c
+  ex1_1.c
+  正在產生程式碼...
+  ch1_1060823.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\ch01_1060823.exe

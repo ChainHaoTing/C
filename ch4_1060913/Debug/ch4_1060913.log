@@ -1,0 +1,15 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (ch4_0913.vcxproj, ch4_1060913.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.c
+d:\106ntuta-01\work\c\visual studio\c語言\ch4_1060913\main.c(39): warning C4013: 'ex4_4' 未定義; 假設 extern 傳回整數
+d:\106ntuta-01\work\c\visual studio\c語言\ch4_1060913\main.c(44): warning C4013: 'ex7_3a_1' 未定義; 假設 extern 傳回整數
+  ex7_3a.c
+  ex7_3a_1.c
+  ex7_2c.c
+  ex7_2b.c
+  ex7_2a.c
+  ex4_4.c
+  ex4_3.c
+  ex4_2.c
+  ex4_1.c
+  正在產生程式碼...
+  ch4_1060913.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\ch04_1060913.exe

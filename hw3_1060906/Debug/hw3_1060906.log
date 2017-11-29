@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+d:\106ntuta-01\work\c\visual studio\c語言\hw3_1060906\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\hw3_1060906\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\106ntuta-01\work\c\visual studio\c語言\hw3_1060906\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  main.c
+  hw3_6.c
+d:\106ntuta-01\work\c\visual studio\c語言\hw3_1060906\hw3_6.c(7): warning C4101: 'k': 未參考的區域變數
+  hw3_5.c
+  hw3_4.c
+  hw3_3.c
+d:\106ntuta-01\work\c\visual studio\c語言\hw3_1060906\hw3_3.c(7): warning C4101: 'j': 未參考的區域變數
+  hw3_2.c
+  hw3_1.c
+  正在產生程式碼...
+  hw3_1060906.vcxproj -> D:\106NTUTA-01\work\C\Visual Studio\C語言\Debug\hw3_1060906.exe

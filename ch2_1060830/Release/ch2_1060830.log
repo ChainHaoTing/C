@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\ch2_1060830\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\ch2_1060830\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ex2_1.c
+  ex2_2.c
+  ex2_3.c
+  ex2_4.c
+  ex2_5.c
+  ex2_6.c
+  ex2_7.c
+  ex2_8.c
+  ex2_9.c
+  main.c
+  正在產生程式碼
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ch2_1060830.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch02_1060830.exe
+  ch2_1060830.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\ch02_1060830.pdb (Full PDB)

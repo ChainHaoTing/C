@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw3_1060906\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\workspace\work\c\visual studio\c語言\hw3_1060906\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  hw3_1.c
+  hw3_2.c
+  hw3_3.c
+hw3_3.c(7): warning C4101: 'j': 未參考的區域變數
+  hw3_4.c
+  hw3_5.c
+  hw3_6.c
+hw3_6.c(7): warning C4101: 'k': 未參考的區域變數
+  main.c
+  正在產生程式碼
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  hw3_1060906.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw3_1060906.exe
+  hw3_1060906.vcxproj -> C:\Workspace\work\C\Visual Studio\C語言\Release\hw3_1060906.pdb (Full PDB)
